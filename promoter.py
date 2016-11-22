@@ -10,7 +10,7 @@ and test sets, trains and tunes an LSTM model with random hyper parameter sampli
 tests the model against a test sequence, and records the predicted probability for each
 test sequence.
 
-Only runs on TensorFlow 0.8
+Only runs on TensorFlow 0.8.
 '''
 
 import numpy as np
